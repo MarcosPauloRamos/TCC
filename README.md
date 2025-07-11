@@ -7,10 +7,7 @@ Repositorio de um programa em JAVA utilizando as ferramentas XAMP e Netbeans par
 
 Versões já anexadas:
 
-V0.1 - arquivo base do projeto sem geração de relatorios. (relatorio aberto)
-
-A partir da versão 1.0, será colocado arquivos pdf explicativos sobre os codigos e arquivos pdf para geração do executavel/aplicativo
-as demais versões estarão em arquivo compactado na pasta versões atualizadas, junto com um pdf informando as mudanças na versão
+V1.0 - arquivo base do projeto.
 
 Para execução dos arquivos, baixar os seguintes programas:
 
